@@ -24,8 +24,7 @@ Meaning of first char in line:
 - #: Line is ignored
 - !: Tag for datasets
 
-An example can be seen in the HToZGamma folder.
-An example output can be seen in [example_website/Run3Summer22NanoAODv12.html](https://htmlpreview.github.io/?https://github.com/jaebak/mc_monitor/blob/master/example_website/Run3Summer22NanoAODv12.html)
+An example input can be seen in the HToZGamma folder.
 
 # Commands to run
 ```
@@ -33,4 +32,4 @@ source set_env.sh
 get_mc_info.py -f DATASET_FOLDER -o DATASET_FOLDER
 make_webpage.py -f DATASET_FOLDER - DATASET_FOLDER
 ```
-
+An example output can be seen in [example_website/Run3Summer22NanoAODv12.html](https://htmlpreview.github.io/?https://github.com/jaebak/mc_monitor/blob/master/example_website/Run3Summer22NanoAODv12.html)
