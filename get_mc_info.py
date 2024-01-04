@@ -165,7 +165,8 @@ Campaigns:
   campaigns = ['RunIISummer20UL16NanoAODAPVv9', 'RunIISummer20UL16NanoAODv9', 'RunIISummer20UL17NanoAODv9', 
                'RunIISummer20UL18NanoAODv9',
                'Run3Summer22NanoAODv11', 'Run3Summer22EENanoAODv11',
-               'Run3Summer22NanoAODv12', 'Run3Summer22EENanoAODv12'
+               'Run3Summer22NanoAODv12', 'Run3Summer22EENanoAODv12',
+               'Run3Summer23NanoAODv12', 'Run3Summer23BPixNanoAODv12',
                ]
   if args.campaign != None: campaigns = [args.campaign]
   #campaigns = ['RunIISummer20UL16NanoAODAPVv9']
